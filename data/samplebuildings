@@ -1,0 +1,93 @@
+[
+    {
+        "BLDG_NUM": "0005000",
+        "BLDG_NAME": "Hetzel Union Building (Ralph Dorn)",
+        "BUILDING FUNCTION": "Cafeteria/Student Union",
+        "CONSTRUCTION YEAR": "1955",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Penn State Bookstore",
+        "Dining": "Burger King, Chick-fil-A, Higher Grounds, Jamba Juice, McAlister's Deli, Mixed Greens, Panda Express, Soup & Garden, Sbarro, Starbucks, Sushi by Panda Express, Blue Burrito",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    },
+    {
+        "BLDG_NUM": "0275000",
+        "BLDG_NAME": "Pollock Hall (James)",
+        "BUILDING FUNCTION": "Cafeteria Building",
+        "CONSTRUCTION YEAR": "1960",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Today's Pollock Menu",
+        "Dining": "Plate, Leaf, Gusto!, Swirl, Envy, The Mix",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    },
+    {
+        "BLDG_NUM": "0274000",
+        "BLDG_NAME": "Warnock Hall (Arthur R)",
+        "BUILDING FUNCTION": "Cafeteria Building",
+        "CONSTRUCTION YEAR": "1959",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Today's North Menu",
+        "Dining": "rigaTony's, Halal, bluespoon market",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    },
+    {
+        "BLDG_NUM": "0277000",
+        "BLDG_NAME": "Findlay Hall (William)",
+        "BUILDING FUNCTION": "Cafeteria Building",
+        "CONSTRUCTION YEAR": "1965",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Today's East Menu",
+        "Dining": "Sol de Cobre, Roxy's, Fresh Express, Fresh Express Asian Grille, The Big Onion, Good 2 Go",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    },
+    {
+        "BLDG_NUM": "0276000",
+        "BLDG_NAME": "Johnston Hall (William F)",
+        "BUILDING FUNCTION": "Cafeteria Building",
+        "CONSTRUCTION YEAR": "1961",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Today's East Menu",
+        "Dining": "Sol de Cobre, Roxy's, Fresh Express, Fresh Express Asian Grille, The Big Onion, Good 2 Go",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    },
+    {
+        "BLDG_NUM": "0273000",
+        "BLDG_NAME": "Redifer Hall (Anna E)",
+        "BUILDING FUNCTION": "Cafeteria Building",
+        "CONSTRUCTION YEAR": "1957",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Today's South Menu",
+        "Dining": "Southside Buffet, Louie's At Redifer, City Grill, Fresco y Caliente, Hot Steel & Noodles, Edomae, In A Pickle, Off the Ground, Piatto Felice, Urban Garden",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    },
+    {
+        "BLDG_NUM": "0272000",
+        "BLDG_NAME": "Waring Hall (William G)",
+        "BUILDING FUNCTION": "Cafeteria Building",
+        "CONSTRUCTION YEAR": "1950",
+        "Picture": "",
+        "College": "No Affiliation",
+        "Services": "Today's West Menu",
+        "Dining": "The West Wing, SiSu, Waring Square ",
+        "Computer Labs": "Available",
+        "Rescom": "Available",
+        "Residence ": "Not Available"
+    }
+]
